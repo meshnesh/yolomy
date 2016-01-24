@@ -22,9 +22,11 @@ body{
     background-color: #AE9578;
 }
 
+/*
 p{
         color: white;
 }
+*/
 
 .small-2 {
     width: 32.66667%;
@@ -38,5 +40,5 @@ p{
     float: none;
     margin-left: auto;
     margin-right: 13%;
-    margin-top: 58%;
+    margin-top: 18.5%;
 }
