@@ -3,20 +3,31 @@
     background-size: 100% 100%;
     height: auto;
 }
+/*
 img{
         margin-top: 4%;
     margin-left: 4%;
 }
+*/
 
-.btn
-{
-    background-color: wheat;
-}
 
- p{
+
+.pin{
     padding-top: 50%;
 }
 
 body{
-    background-color: wheat;
+    background-color: #AE9578;
+}
+
+p{
+        color: white;
+}
+
+.small-2 {
+    width: 32.66667%;
+}
+
+.large-4 {
+    width: 25%;
 }
