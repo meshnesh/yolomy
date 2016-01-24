@@ -3,6 +3,10 @@
     background-size: 100% 100%;
     height: auto;
 }
+img{
+        margin-top: 4%;
+    margin-left: 4%;
+}
 
 .btn
 {
